@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a PKMS CLI tool<br>🌱 I’m currently learning Zig and Scheme<br>💬 Ask me about programs as art
+🔭 I’m currently working on a tool to bring the utility of the [Denote](https://protesilaos.com/emacs/denote) Emacs package to your CLI.<br>🌱 I’m currently learning Zig and reading The Little Schemer.<br>💬 Ask me about programs as art.
 
 
 # 💻 Tech Stack:
